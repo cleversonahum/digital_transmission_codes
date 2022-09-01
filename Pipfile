@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+resampy = "*"
+matplotlib = "*"
+wave = "*"
+ipython = "*"
+ipykernel = "*"
+black = "*"
+flake8 = "*"
+isort = "*"
+pre-commit = "*"
+pyright = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
