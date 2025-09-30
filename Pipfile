@@ -8,17 +8,16 @@ numpy = "*"
 scipy = "*"
 resampy = "*"
 matplotlib = "*"
-wave = "*"
 ipython = "*"
 ipykernel = "*"
 black = "*"
 flake8 = "*"
 isort = "*"
 pre-commit = "*"
-pyright = "*"
 scikit-commpy = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.10"
+python_full_version = "3.10.18"
